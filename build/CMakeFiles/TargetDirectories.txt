@@ -1,6 +1,0 @@
-/mnt/f/ubuntu/workspace/cplus/circularBuffer/build/CMakeFiles/edit_cache.dir
-/mnt/f/ubuntu/workspace/cplus/circularBuffer/build/CMakeFiles/rebuild_cache.dir
-/mnt/f/ubuntu/workspace/cplus/circularBuffer/build/tests/CMakeFiles/circularBuffer_test.dir
-/mnt/f/ubuntu/workspace/cplus/circularBuffer/build/tests/CMakeFiles/coverage.dir
-/mnt/f/ubuntu/workspace/cplus/circularBuffer/build/tests/CMakeFiles/edit_cache.dir
-/mnt/f/ubuntu/workspace/cplus/circularBuffer/build/tests/CMakeFiles/rebuild_cache.dir
