@@ -1,0 +1,5 @@
+if(EXISTS "/mnt/f/ubuntu/workspace/cplus/circularBuffer/build/tests/circularBuffer_test[1]_tests.cmake")
+  include("/mnt/f/ubuntu/workspace/cplus/circularBuffer/build/tests/circularBuffer_test[1]_tests.cmake")
+else()
+  add_test(circularBuffer_test_NOT_BUILT circularBuffer_test_NOT_BUILT)
+endif()
